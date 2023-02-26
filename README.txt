@@ -1,0 +1,1 @@
+Several small android application projects developed in Android Studio
